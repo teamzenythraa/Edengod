@@ -1,0 +1,14 @@
+python-telegram-bot==22.5
+yt-dlp
+qrcode[pil]
+requests
+gTTS
+telethon
+aiohttp
+edge-tts
+Flask
+pytz
+youtube-search-python
+instaloader
+numpy
+httpx
